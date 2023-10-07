@@ -1,0 +1,17 @@
+h3{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+canvas{
+    width: 50;
+    height: 50;
+    border-width: 30px;
+    border-color: white;
+    padding: 20cm;
+    margin: 60%;
+}
+
